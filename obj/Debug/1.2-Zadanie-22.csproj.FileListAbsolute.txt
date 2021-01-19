@@ -1,0 +1,7 @@
+E:\Работы VS\1.2-Zadanie-22\bin\Debug\1.2-Zadanie-22.exe.config
+E:\Работы VS\1.2-Zadanie-22\bin\Debug\1.2-Zadanie-22.exe
+E:\Работы VS\1.2-Zadanie-22\bin\Debug\1.2-Zadanie-22.pdb
+E:\Работы VS\1.2-Zadanie-22\obj\Debug\1.2-Zadanie-22.csprojAssemblyReference.cache
+E:\Работы VS\1.2-Zadanie-22\obj\Debug\1.2-Zadanie-22.csproj.CoreCompileInputs.cache
+E:\Работы VS\1.2-Zadanie-22\obj\Debug\1.2-Zadanie-22.exe
+E:\Работы VS\1.2-Zadanie-22\obj\Debug\1.2-Zadanie-22.pdb
